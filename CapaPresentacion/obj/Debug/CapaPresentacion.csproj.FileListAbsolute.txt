@@ -1,0 +1,17 @@
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.Main.resources
+C:\Users\alexi\Desktop\PinturasRoberto\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources

@@ -1,0 +1,7 @@
+C:\Users\alexi\Desktop\PinturasRoberto\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\alexi\Desktop\PinturasRoberto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexi\Desktop\PinturasRoberto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexi\Desktop\PinturasRoberto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\alexi\Desktop\PinturasRoberto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\PinturasRoberto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexi\Desktop\PinturasRoberto\CapaDatos\obj\Debug\CapaDatos.pdb
